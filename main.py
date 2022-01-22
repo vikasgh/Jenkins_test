@@ -1,5 +1,5 @@
-import time from datetime
+from datetime import datetime
 def main():
-  print("Time is "+ time)
+  print("Date is "+ str(datetime.now().strftime("%d %B %Y %I:%M:%S %p")))
 if __name__ == "__main__":
   main()
