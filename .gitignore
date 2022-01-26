@@ -1,0 +1,4 @@
+*.log
+Jenkins_test.egg-info
+dist
+build

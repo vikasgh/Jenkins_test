@@ -1,8 +1,0 @@
-setup.py
-Jenkins_test/__init__.py
-Jenkins_test/jentest.py
-Jenkins_test.egg-info/PKG-INFO
-Jenkins_test.egg-info/SOURCES.txt
-Jenkins_test.egg-info/dependency_links.txt
-Jenkins_test.egg-info/requires.txt
-Jenkins_test.egg-info/top_level.txt
