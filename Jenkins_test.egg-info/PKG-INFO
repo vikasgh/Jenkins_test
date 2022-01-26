@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Jenkins-test
+Version: 1.0
+Summary: Jenkins_test package
+Home-page: https://github.com/vikasgh/Jenkins_test
+Author: Vikas Gupta
+Author-email: vikasgh@email.com
+License: Apache License 2.0
+Description: # Test Project
+        This package is used to **create a test** project by [Vikas Gupta] for jenkins testing (www.jenkins-test.com).
+        - Don't worry nothing useful here
+        - Still here, please get out
+        - You are one stubborn guy
+        
+        That's it, you don't need to read anymore. Click the Almost complete circle with a radius hanging from top of circumference on your CPU cabinet or keyboard. Bye!
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
